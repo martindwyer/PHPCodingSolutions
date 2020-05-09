@@ -1,0 +1,11 @@
+Flintstone,Fred,123 Quarry Lane,Bedrock,IA,52123,yabadaba@mail.com,Yes,Yes
+Flintstone,Wilma,123 Quarry Lane,Bedrock,IA,52123,fredswilma@mail.com,Yes,Yes
+Rubble,Barney,125 Quearry Lane,Bedrock,IA,52123,fredsfriend@mail.com,Yes,Yes
+Rubble,Betty,125 Quearry Lane,Bedrock,IA,52123,barneysbetty@mail.com,Yes,Yes
+Jetson,George,1000 Little Dipper Lane, Orbit,TX,99999,georgejetson@mail.com,Yes,No
+Jetson,Judy,1000 Little Dipper Lane, Orbit, TX,99999,judyjetson@mail.com,No,Yes
+Jetson,Jane,1000 Little Dipper Lane,Orbit,TX,99999,janejetson@mail.com,Yes,Yes
+Jetson,Elroy,1000 Little Dipper Lane,Orbit,TX,99999,elroyjetson@mail.com,Yes,Yes
+Dwyer,Martin,168 16th Ave SW,Cedar Rapids,IA,52404,martin.dwyer@outlook.com,Yes,Yes 
+Dwyer,Martin,168 16th Ave SW,Cedar Rapids,IA,52404,martin.dwyer@outlook.com,Yes,Yes 
+dwyer,martin,123 any street,anywhere,ia,52406,them@them.com,No,Yes 

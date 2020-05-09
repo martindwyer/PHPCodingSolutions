@@ -1,0 +1,97 @@
+body {
+    width: 100%;
+    background-color: #e8572b;
+    font-family: "sans-serif", "arial";
+    color: #000000;    
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.container-fluid {
+    width: 85%;
+    height: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border: 1px solid black;
+    border-radius: 1%;
+    background-color: #7a7a7a;
+    color: #ffffff;
+    
+}
+
+#page-content {
+    width: 100%;
+    height: auto;
+    padding: 2em;
+    background-color: #ffffff;
+    border: 1px solid black;
+    border-radius: 1%;
+    text-align: center;
+    color: #000000;
+}
+
+.banner {
+    text-align: center;
+}
+
+form {
+    min-width: 300px;
+    width: 50%;
+    height: auto;
+    font-size: 85%;
+    text-align: left;
+    margin: 0 auto;
+    padding: 3em;
+    background-color: lightgrey;
+}
+
+form input {
+    float: right;
+    margin-right: 15%;
+    width: 35%;
+}
+
+form label {
+    float: left;
+    margin-left: 15%;
+}
+
+
+form input[type='submit'] {
+    float: left;
+}
+
+form input[name='hidden_field'] {
+	visibility: hidden;
+}
+
+#newsletter_format {
+	width: 40%;	
+	clear: both;
+	margin-left: 15%;
+	display: block;
+
+}
+
+#newsletter_format input {
+	float: left;
+	
+}
+
+
+#ending_stuff {
+	clear: both;
+	display: block;
+   margin-left: 15%;
+}
+
+#ending_stuff input[type='reset'] {
+	display: block;
+	
+}
+
+
+
+
